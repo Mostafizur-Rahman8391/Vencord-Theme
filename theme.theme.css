@@ -1,0 +1,50 @@
+/**
+ * @name Theme-8391
+ * @author @_.mr8391
+ * @version 1.0.0
+ * @description No Idea what to put in description, maybe a simple fuck you.
+ * @website https://mostafizurrahman.xyz/
+ * @authorId 904592321042067467
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;500;700&display=swap');
+@import url('https://raw.githubusercontent.com/Mostafizur-Rahman8391/Vencord-Theme/refs/heads/main/frost.css');
+@import url('https://raw.githubusercontent.com/Mostafizur-Rahman8391/Vencord-Theme/refs/heads/main/titlebar-betch.css');
+
+:root {
+  --background-image: url('https://i.imgur.com/15eTHJ2.jpeg');
+  --background-image-blur: 10px;
+  --background-image-size: cover;
+  --background-image-position: center;
+  --popout-image: var(--background-image);
+  --popout-image-blur: 30px;
+  --popout-image-size: auto;
+  --popout-image-position: center;
+  --overlay-image: var(--background-image);
+  --overlay-image-blur: 30px;
+  --overlay-image-size: cover;
+  --overlay-image-position: center;
+  --home-button-image: url('https://raw.githubusercontent.com/Mostafizur-Rahman8391/Vencord-Theme/refs/heads/main/discord.svg');
+  --home-button-size: cover;
+  --home-button-position: center;
+  --serverlist-brightness: 0.84;
+  --left-brightness: 0.88;
+  --middle-brightness: 0.74;
+  --right-brightness: 0;
+  --overlay-brightness: 0.78;
+  --gradient-primary: 50,50,50;
+  --gradient-secondary: 50,50,50;
+  --link-colour: #8BC34A;
+  --scrollbar-colour: rgb(139,195,74,1);
+  --gradient-direction: 0deg;
+  --tint-colour: 255,51,159;
+  --tint-brightness: 0;
+  --font: Poppins;
+  --window-padding: 47px;
+  --window-roundness: 15px;
+  --update-notice-1: none;
+}
+
+/* Any custom CSS below here */
+
+
